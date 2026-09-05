@@ -42,32 +42,3 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">📊 GitHub Analytics:</h3>
-<p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Karthik-jayanthi&show_icons=true&theme=radical&count_private=true" alt="Karthik-jayanthi's GitHub stats" />
-</p>
-
-<h3 align="left">🔥 Contribution Streak:</h3>
-<p align="left">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Karthik-jayanthi&theme=radical" alt="Karthik-jayanthi's streak stats" />
-</p>
-
-<h3 align="left">📈 Contribution Activity Graph:</h3>
-<p align="left">
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Karthik-jayanthi&theme=react-dark" alt="Karthik-jayanthi's activity graph" />
-</p>
-
-<h3 align="left">🏆 Trophies:</h3>
-<p align="left">
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=Karthik-jayanthi&theme=radical&no-frame=true&row=1&column=7" alt="Karthik-jayanthi's trophies" />
-</p>
-
-<h3 align="left">📌 Featured Projects:</h3>
-<p align="left">
-<a href="https://github.com/Karthik-jayanthi/REPO_NAME_1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Karthik-jayanthi&repo=REPO_NAME_1&theme=radical" />
-</a>
-<a href="https://github.com/Karthik-jayanthi/REPO_NAME_2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Karthik-jayanthi&repo=REPO_NAME_2&theme=radical" />
-</a>
-</p>
